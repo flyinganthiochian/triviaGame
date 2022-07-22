@@ -1,1 +1,4 @@
-# **This is a Trivia Game crated by Onur Deniz**
+# **This is a Trivia Game**
+*crated by Onur Deniz*
+
+
